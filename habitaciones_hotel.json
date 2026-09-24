@@ -1,0 +1,72 @@
+[
+  {
+    "numero_habitacion": "101",
+    "piso_nivel": 1,
+    "tipo_habitacion": "Sencilla",
+    "costo_por_noche": 1200.0,
+    "estado": "Disponible"
+  },
+  {
+    "numero_habitacion": "102",
+    "piso_nivel": 1,
+    "tipo_habitacion": "Sencilla",
+    "costo_por_noche": 1200.0,
+    "estado": "Ocupada"
+  },
+  {
+    "numero_habitacion": "103",
+    "piso_nivel": 1,
+    "tipo_habitacion": "Doble",
+    "costo_por_noche": 1800.0,
+    "estado": "Disponible"
+  },
+  {
+    "numero_habitacion": "201",
+    "piso_nivel": 2,
+    "tipo_habitacion": "Doble",
+    "costo_por_noche": 1800.0,
+    "estado": "Disponible"
+  },
+  {
+    "numero_habitacion": "202",
+    "piso_nivel": 2,
+    "tipo_habitacion": "Junior Suite",
+    "costo_por_noche": 2500.0,
+    "estado": "Ocupada"
+  },
+  {
+    "numero_habitacion": "203",
+    "piso_nivel": 2,
+    "tipo_habitacion": "Junior Suite",
+    "costo_por_noche": 2500.0,
+    "estado": "Disponible"
+  },
+  {
+    "numero_habitacion": "301",
+    "piso_nivel": 3,
+    "tipo_habitacion": "Master Suite",
+    "costo_por_noche": 4500.0,
+    "estado": "Ocupada"
+  },
+  {
+    "numero_habitacion": "302",
+    "piso_nivel": 3,
+    "tipo_habitacion": "Master Suite",
+    "costo_por_noche": 4500.0,
+    "estado": "Mantenimiento"
+  },
+  {
+    "numero_habitacion": "401",
+    "piso_nivel": 4,
+    "tipo_habitacion": "Presidential Suite",
+    "costo_por_noche": 9000.0,
+    "estado": "Ocupada"
+  },
+  {
+    "numero_habitacion": "402",
+    "piso_nivel": 4,
+    "tipo_habitacion": "Presidential Suite",
+    "costo_por_noche": 9000.0,
+    "estado": "Disponible"
+  }
+]

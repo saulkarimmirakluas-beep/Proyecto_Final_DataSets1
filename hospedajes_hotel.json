@@ -1,0 +1,122 @@
+[
+  {
+    "id_hospedaje": "HOS-2026-001",
+    "id_usuario": "USR-001",
+    "numero_habitacion": "202",
+    "id_factura": "FAC-2026-001",
+    "fecha_checkin": "2026-09-10T14:00:00",
+    "fecha_checkout_programado": "2026-09-15T12:00:00",
+    "noches": 5,
+    "tarifa_noche": 2500.0,
+    "total_hospedaje": 12500.0,
+    "estado_hospedaje": "Activo"
+  },
+  {
+    "id_hospedaje": "HOS-2026-002",
+    "id_usuario": "USR-002",
+    "numero_habitacion": "101",
+    "id_factura": "FAC-2026-002",
+    "fecha_checkin": "2026-09-11T15:30:00",
+    "fecha_checkout_programado": "2026-09-14T12:00:00",
+    "noches": 3,
+    "tarifa_noche": 1200.0,
+    "total_hospedaje": 3600.0,
+    "estado_hospedaje": "Finalizado"
+  },
+  {
+    "id_hospedaje": "HOS-2026-003",
+    "id_usuario": "USR-003",
+    "numero_habitacion": "401",
+    "id_factura": "FAC-2026-003",
+    "fecha_checkin": "2026-09-15T13:00:00",
+    "fecha_checkout_programado": "2026-09-20T12:00:00",
+    "noches": 5,
+    "tarifa_noche": 9000.0,
+    "total_hospedaje": 45000.0,
+    "estado_hospedaje": "Activo"
+  },
+  {
+    "id_hospedaje": "HOS-2026-004",
+    "id_usuario": "USR-004",
+    "numero_habitacion": "301",
+    "id_factura": "FAC-2026-004",
+    "fecha_checkin": "2026-09-18T16:00:00",
+    "fecha_checkout_programado": "2026-09-22T12:00:00",
+    "noches": 4,
+    "tarifa_noche": 4500.0,
+    "total_hospedaje": 18000.0,
+    "estado_hospedaje": "Activo"
+  },
+  {
+    "id_hospedaje": "HOS-2026-005",
+    "id_usuario": "USR-005",
+    "numero_habitacion": "101",
+    "id_factura": "FAC-2026-005",
+    "fecha_checkin": "2026-09-18T14:15:00",
+    "fecha_checkout_programado": "2026-09-21T12:00:00",
+    "noches": 3,
+    "tarifa_noche": 1400.0,
+    "total_hospedaje": 4200.0,
+    "estado_hospedaje": "Finalizado"
+  },
+  {
+    "id_hospedaje": "HOS-2026-006",
+    "id_usuario": "USR-006",
+    "numero_habitacion": "301",
+    "id_factura": "FAC-2026-006",
+    "fecha_checkin": "2026-09-22T15:00:00",
+    "fecha_checkout_programado": "2026-09-25T12:00:00",
+    "noches": 3,
+    "tarifa_noche": 4500.0,
+    "total_hospedaje": 13500.0,
+    "estado_hospedaje": "Reservado"
+  },
+  {
+    "id_hospedaje": "HOS-2026-007",
+    "id_usuario": "USR-007",
+    "numero_habitacion": "102",
+    "id_factura": "FAC-2026-007",
+    "fecha_checkin": "2026-09-20T12:00:00",
+    "fecha_checkout_programado": "2026-09-23T12:00:00",
+    "noches": 2,
+    "tarifa_noche": 1600.0,
+    "total_hospedaje": 3200.0,
+    "estado_hospedaje": "Activo"
+  },
+  {
+    "id_hospedaje": "HOS-2026-008",
+    "id_usuario": "USR-008",
+    "numero_habitacion": "202",
+    "id_factura": "FAC-2026-008",
+    "fecha_checkin": "2026-09-22T14:00:00",
+    "fecha_checkout_programado": "2026-09-27T12:00:00",
+    "noches": 5,
+    "tarifa_noche": 5500.0,
+    "total_hospedaje": 27500.0,
+    "estado_hospedaje": "Reservado"
+  },
+  {
+    "id_hospedaje": "HOS-2026-009",
+    "id_usuario": "USR-009",
+    "numero_habitacion": "103",
+    "id_factura": "FAC-2026-009",
+    "fecha_checkin": "2026-09-22T13:30:00",
+    "fecha_checkout_programado": "2026-09-24T12:00:00",
+    "noches": 2,
+    "tarifa_noche": 2200.0,
+    "total_hospedaje": 4400.0,
+    "estado_hospedaje": "Finalizado"
+  },
+  {
+    "id_hospedaje": "HOS-2026-010",
+    "id_usuario": "USR-010",
+    "numero_habitacion": "202",
+    "id_factura": "FAC-2026-010",
+    "fecha_checkin": "2026-09-24T15:00:00",
+    "fecha_checkout_programado": "2026-09-28T12:00:00",
+    "noches": 4,
+    "tarifa_noche": 5250.0,
+    "total_hospedaje": 21000.0,
+    "estado_hospedaje": "Reservado"
+  }
+]
