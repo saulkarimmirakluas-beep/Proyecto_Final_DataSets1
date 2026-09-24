@@ -1,0 +1,11 @@
+id_usuario,nombre,apellido,email,telefono,fecha_checkin,fecha_checkout,numero_habitacion,tipo_habitacion,id_hotel
+USR-001,Carlos,Mendoza,carlos.mendoza@email.com,+52 55 1234 5678,2026-09-10,2026-09-15,302,Deluxe King,HTL-MEX-01
+USR-002,Ana,Sánchez,ana.sanchez@email.com,+52 33 9876 5432,2026-09-12,2026-09-14,105,Especial Doble,HTL-GDL-02
+USR-003,Luis,Fernández,luis.f@email.com,+52 81 5555 4433,2026-09-15,2026-09-20,501,Suite Presidencial,HTL-MTY-01
+USR-004,María,Gómez,maria.gomez@email.com,+52 99 3322 1100,2026-09-18,2026-09-22,204,Junior Suite,HTL-CUN-03
+USR-005,Jorge,Ríos,jorge.rios@email.com,+52 22 7788 9900,2026-09-19,2026-09-21,410,Standard Queen,HTL-PUE-01
+USR-006,Elena,Torres,elena.torres@email.com,+52 44 6655 4433,2026-09-20,2026-09-25,312,Deluxe King,HTL-QRO-01
+USR-007,Roberto,Vargas,roberto.v@email.com,+52 66 1122 3344,2026-09-21,2026-09-23,108,Standard Twin,HTL-TIJ-01
+USR-008,Patricia,Navarro,patricia.n@email.com,+52 99 8877 6655,2026-09-22,2026-09-27,602,Master Suite,HTL-CUN-03
+USR-009,Fernando,Castillo,fernando.c@email.com,+52 33 4455 6677,2026-09-22,2026-09-24,215,Standard Queen,HTL-GDL-02
+USR-010,Gabriela,Morales,gabriela.m@email.com,+52 55 9900 1122,2026-09-23,2026-09-28,405,Junior Suite,HTL-MEX-01

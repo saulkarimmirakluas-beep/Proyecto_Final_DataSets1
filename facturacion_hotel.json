@@ -1,0 +1,122 @@
+[
+    {
+        "id_factura": "FAC-2026-001",
+        "id_usuario": "USR-001",
+        "folio_fiscal": "4F9A2B1C-1111-4A1E-8123-A1B2C3D4E5F6",
+        "monto_hospedaje": 12500.0,
+        "impuestos": 2000.0,
+        "monto_total": 14500.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-15",
+        "metodo_pago": "Tarjeta de Crédito",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-002",
+        "id_usuario": "USR-002",
+        "folio_fiscal": "8A1C3D5E-2222-4B2F-9234-B2C3D4E5F6A7",
+        "monto_hospedaje": 3600.0,
+        "impuestos": 576.0,
+        "monto_total": 4176.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-14",
+        "metodo_pago": "Tarjeta de Débito",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-003",
+        "id_usuario": "USR-003",
+        "folio_fiscal": "3D5E7F9A-3333-4C3A-0345-C3D4E5F6A7B8",
+        "monto_hospedaje": 45000.0,
+        "impuestos": 7200.0,
+        "monto_total": 52200.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-20",
+        "metodo_pago": "Transferencia SPEI",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-004",
+        "id_usuario": "USR-004",
+        "folio_fiscal": "1A2B3C4D-4444-4D4B-1456-D4E5F6A7B8C9",
+        "monto_hospedaje": 18000.0,
+        "impuestos": 2880.0,
+        "monto_total": 20880.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-22",
+        "metodo_pago": "Tarjeta de Crédito",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-005",
+        "id_usuario": "USR-005",
+        "folio_fiscal": "9F8E7D6C-5555-4E5C-2567-E5F6A7B8C9D0",
+        "monto_hospedaje": 4200.0,
+        "impuestos": 672.0,
+        "monto_total": 4872.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-21",
+        "metodo_pago": "Efectivo",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-006",
+        "id_usuario": "USR-006",
+        "folio_fiscal": "5B6C7D8E-6666-4F6D-3678-F6A7B8C9D0E1",
+        "monto_hospedaje": 13500.0,
+        "impuestos": 2160.0,
+        "monto_total": 15660.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-25",
+        "metodo_pago": "Tarjeta de Crédito",
+        "estado": "Pendiente"
+    },
+    {
+        "id_factura": "FAC-2026-007",
+        "id_usuario": "USR-007",
+        "folio_fiscal": "2C3D4E5F-7777-4A7E-4789-A7B8C9D0E1F2",
+        "monto_hospedaje": 3200.0,
+        "impuestos": 512.0,
+        "monto_total": 3712.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-23",
+        "metodo_pago": "Tarjeta de Débito",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-008",
+        "id_usuario": "USR-008",
+        "folio_fiscal": "7D8E9F1A-8888-4B8F-5890-B8C9D0E1F2A3",
+        "monto_hospedaje": 27500.0,
+        "impuestos": 4400.0,
+        "monto_total": 31900.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-27",
+        "metodo_pago": "Tarjeta de Crédito",
+        "estado": "Pendiente"
+    },
+    {
+        "id_factura": "FAC-2026-009",
+        "id_usuario": "USR-009",
+        "folio_fiscal": "6E7F8A9B-9999-4C9A-6901-C9D0E1F2A3B4",
+        "monto_hospedaje": 4400.0,
+        "impuestos": 704.0,
+        "monto_total": 5104.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-24",
+        "metodo_pago": "Efectivo",
+        "estado": "Pagada"
+    },
+    {
+        "id_factura": "FAC-2026-010",
+        "id_usuario": "USR-010",
+        "folio_fiscal": "4A5B6C7D-0000-4D0B-7012-D0E1F2A3B4C5",
+        "monto_hospedaje": 21000.0,
+        "impuestos": 3360.0,
+        "monto_total": 24360.0,
+        "moneda": "MXN",
+        "fecha_emision": "2026-09-28",
+        "metodo_pago": "Transferencia SPEI",
+        "estado": "Pendiente"
+    }
+]

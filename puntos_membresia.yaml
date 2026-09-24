@@ -1,0 +1,82 @@
+# Registro de Puntos de Membresía del Hotel
+membresias:
+  - id_membresia: "MBR-1001"
+    id_usuario: "USR-001"
+    nivel: "Oro"
+    puntos_acumulados: 14500
+    puntos_canjeados: 2000
+    puntos_disponibles: 12500
+    fecha_ultimo_movimiento: "2026-09-15"
+    vencimiento_puntos: "2027-09-15"
+  - id_membresia: "MBR-1002"
+    id_usuario: "USR-002"
+    nivel: "Plata"
+    puntos_acumulados: 4176
+    puntos_canjeados: 0
+    puntos_disponibles: 4176
+    fecha_ultimo_movimiento: "2026-09-14"
+    vencimiento_puntos: "2027-09-14"
+  - id_membresia: "MBR-1003"
+    id_usuario: "USR-003"
+    nivel: "Diamante"
+    puntos_acumulados: 98000
+    puntos_canjeados: 15000
+    puntos_disponibles: 83000
+    fecha_ultimo_movimiento: "2026-09-20"
+    vencimiento_puntos: "2028-09-20"
+  - id_membresia: "MBR-1004"
+    id_usuario: "USR-004"
+    nivel: "Platino"
+    puntos_acumulados: 45000
+    puntos_canjeados: 5000
+    puntos_disponibles: 40000
+    fecha_ultimo_movimiento: "2026-09-22"
+    vencimiento_puntos: "2027-09-22"
+  - id_membresia: "MBR-1005"
+    id_usuario: "USR-005"
+    nivel: "Bronce"
+    puntos_acumulados: 4872
+    puntos_canjeados: 0
+    puntos_disponibles: 4872
+    fecha_ultimo_movimiento: "2026-09-21"
+    vencimiento_puntos: "2027-09-21"
+  - id_membresia: "MBR-1006"
+    id_usuario: "USR-006"
+    nivel: "Oro"
+    puntos_acumulados: 22000
+    puntos_canjeados: 3000
+    puntos_disponibles: 19000
+    fecha_ultimo_movimiento: "2026-09-20"
+    vencimiento_puntos: "2027-09-20"
+  - id_membresia: "MBR-1007"
+    id_usuario: "USR-007"
+    nivel: "Bronce"
+    puntos_acumulados: 3712
+    puntos_canjeados: 0
+    puntos_disponibles: 3712
+    fecha_ultimo_movimiento: "2026-09-23"
+    vencimiento_puntos: "2027-09-23"
+  - id_membresia: "MBR-1008"
+    id_usuario: "USR-008"
+    nivel: "Platino"
+    puntos_acumulados: 53000
+    puntos_canjeados: 10000
+    puntos_disponibles: 43000
+    fecha_ultimo_movimiento: "2026-09-22"
+    vencimiento_puntos: "2027-09-22"
+  - id_membresia: "MBR-1009"
+    id_usuario: "USR-009"
+    nivel: "Plata"
+    puntos_acumulados: 8900
+    puntos_canjeados: 1000
+    puntos_disponibles: 7900
+    fecha_ultimo_movimiento: "2026-09-24"
+    vencimiento_puntos: "2027-09-24"
+  - id_membresia: "MBR-1010"
+    id_usuario: "USR-010"
+    nivel: "Oro"
+    puntos_acumulados: 18500
+    puntos_canjeados: 2500
+    puntos_disponibles: 16000
+    fecha_ultimo_movimiento: "2026-09-23"
+    vencimiento_puntos: "2027-09-23"
