@@ -1,11 +1,11 @@
-id_usuario,nombre,apellido,email,telefono,fecha_checkin,fecha_checkout,numero_habitacion,tipo_habitacion,id_hotel
-USR-001,Carlos,Mendoza,carlos.mendoza@email.com,+52 55 1234 5678,2026-09-10,2026-09-15,302,Deluxe King,HTL-MEX-01
-USR-002,Ana,Sánchez,ana.sanchez@email.com,+52 33 9876 5432,2026-09-12,2026-09-14,105,Especial Doble,HTL-GDL-02
-USR-003,Luis,Fernández,luis.f@email.com,+52 81 5555 4433,2026-09-15,2026-09-20,501,Suite Presidencial,HTL-MTY-01
-USR-004,María,Gómez,maria.gomez@email.com,+52 99 3322 1100,2026-09-18,2026-09-22,204,Junior Suite,HTL-CUN-03
-USR-005,Jorge,Ríos,jorge.rios@email.com,+52 22 7788 9900,2026-09-19,2026-09-21,410,Standard Queen,HTL-PUE-01
-USR-006,Elena,Torres,elena.torres@email.com,+52 44 6655 4433,2026-09-20,2026-09-25,312,Deluxe King,HTL-QRO-01
-USR-007,Roberto,Vargas,roberto.v@email.com,+52 66 1122 3344,2026-09-21,2026-09-23,108,Standard Twin,HTL-TIJ-01
-USR-008,Patricia,Navarro,patricia.n@email.com,+52 99 8877 6655,2026-09-22,2026-09-27,602,Master Suite,HTL-CUN-03
-USR-009,Fernando,Castillo,fernando.c@email.com,+52 33 4455 6677,2026-09-22,2026-09-24,215,Standard Queen,HTL-GDL-02
-USR-010,Gabriela,Morales,gabriela.m@email.com,+52 55 9900 1122,2026-09-23,2026-09-28,405,Junior Suite,HTL-MEX-01
+id_usuario,nombre_titular,apellido_titular,total_personas,email,telefono,nacionalidad,fecha_registro,Estado
+USR-001,Carlos,Mendoza,2,carlos.mendoza@gmail.com,+525551234567,Mexicana,2026-01-10,Activo
+USR-002,Ana,García,1,ana.garcia@hotmail.com,+525552345678,Mexicana,2026-02-14,Activo
+USR-003,John,Smith,4,john.smith@gmail.com,+13055550199,Estadounidense,2026-03-01,Activo
+USR-004,María,López,3,maria.lopez@outlook.com,+525553456789,Mexicana,2026-03-15,Activo
+USR-005,Pierre,Dubois,1,pierre.dubois@gmail.com,+33142685300,Francesa,2026-04-02,Activo
+USR-006,Sofia,Hernández,2,sofia.h@gmail.com,+525554567890,Mexicana,2026-04-18,Activo
+USR-007,Lukas,Müller,1,lukas.muller@hotmail.com,+49301234567,Alemana,2026-05-10,Activo
+USR-008,Lucía,Torres,4,lucia.torres@outlook.com,+525555678901,Mexicana,2026-06-01,Activo
+USR-009,Elena,Russo,2,elena.russo@gmail.com,+390669812345,Italiana,2026-06-20,Activo
+USR-010,Roberto,Vargas,3,roberto.v@yahoo.com,+525556789012,Mexicana,2026-07-04,Activo
